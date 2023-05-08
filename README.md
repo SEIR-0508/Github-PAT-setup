@@ -7,7 +7,7 @@ In 2021, Github went through a large security update. There are a few new steps 
 
 - At the top right of your Github page, click the grey Plus sign "+" and select "New Repository". This is how we create our own Github Repo's, and it is something we will be doing throughout the class.
 
-- You will see a few options and prompts. Where it says "Respoitory Name", type in something simple, like "first-repo"
+- You will see a few options and prompts. Where it says "Repository Name", type in something simple, like "first-repo"
 
 - Set this to Public, and select the box to Initialize with a ReadMe. This will allow us to Clone this repo down to use on our computers (we'll see what this means soon!)
 
